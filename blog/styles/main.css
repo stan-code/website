@@ -1,0 +1,42 @@
+h1 {
+    color: red;
+    text-align: center;
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 30px;
+
+    
+}
+
+body {
+    background-image: url(https://www.publicdomainpictures.net/pictures/250000/velka/seamless-fractal-pattern-1521909500zPH.jpg);
+    background-size: 600px 800px;
+}
+.smiley {
+    width: 200px;
+    position: relative;
+    top: 100px;
+    left: 100px;
+
+}
+
+h2 {
+    margin-left: 200px;
+    margin-right: 500px;
+    text-align: center;
+}
+p {
+    background-color: white;
+
+}
+.lemon {
+    background-color: red;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}

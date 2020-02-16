@@ -336,6 +336,7 @@ footer {
 }
 
 #blogpage-one {
+    margin: 0 auto;
     grid-template-columns: repeat(2 1fr);
     max-width: 700px;
     max-height: 300px;

@@ -335,12 +335,17 @@ footer {
 
 }
 
+.blogtitletext {
+    text-align: center;
+}
+
 #blogpage-one {
     display: grid;
     margin: 0 auto;
     grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(5, 1fr);
     max-width: 700px;
-    max-height: 300px;
+    height: 150px;
     margin-bottom: 0px;
     border-radius: 20px;
     margin-top: 60px;
@@ -350,11 +355,28 @@ footer {
 .Blog1Tech {
     grid-column: 1/2;
     background-color: rgba(255, 255, 255, 0.705);
+    border-radius: 20px;
+    height: 160px;
+
 
 }
 
 .Blog1Cult {
     grid-column: 2/3;
     background-color: rgba(255, 255, 255, 0.705);
+    border-radius: 20px;
+    height: 160px;
 
+}
+
+.blogclick {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+
+
+}
+
+hr {
+    color: black;
 }

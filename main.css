@@ -336,10 +336,15 @@ footer {
 }
 
 #blogpage-one {
+    display: grid;
     margin: 0 auto;
-    grid-template-columns: repeat(2 1fr);
+    grid-template-columns: repeat(2, 1fr);
     max-width: 700px;
-    height: 300px;
+    max-height: 300px;
+    margin-bottom: 0px;
+    border-radius: 20px;
+    margin-top: 60px;
+    grid-gap: 10px;
 }
 
 .Blog1Tech {

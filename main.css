@@ -469,9 +469,25 @@ hr {
 }
 
 .mbpc {
-    margin-left: 300px;
+    margin: 0 auto;
     margin-top: 40px;
     margin-bottom: 20px;
     width: 300px;
     height: 300px;
+}
+
+.aboutpagegrid {
+
+    display: grid;
+    grid-template-columns: repeat(2);
+    grid-template-rows: repeat(3 1fr);
+    background-color: rgba(255, 255, 255, 0.705);
+}
+
+.blogimg {
+    display: grid;
+    margin: 0 auto;
+    grid-template-columns: repeat(1);
+    grid-template-rows: repeat(1) ;
+    align-content: center;
 }

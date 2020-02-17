@@ -474,20 +474,98 @@ hr {
     margin-bottom: 20px;
     width: 300px;
     height: 300px;
+
+}
+
+
+.blogimg {
+    display: grid;
+    margin: 0 auto;
+    grid-template-columns: (2);
+    grid-template-rows: repeat(1) ;
+    align-content: center;
+
+}
+
+.aboutcontent {
+    margin: 0 auto;
 }
 
 .aboutpagegrid {
 
     display: grid;
-    grid-template-columns: repeat(2);
+    grid-template-columns: repeat(2 1fr);
     grid-template-rows: repeat(3 1fr);
-    background-color: rgba(255, 255, 255, 0.705);
+    margin: 0 auto;
 }
 
-.blogimg {
+.abtsctone {
+    grid-column: 1/2;
+    background-color: rgba(255, 255, 255, 0.705);
+
+
+}
+
+.abtsctone img {
+    width: 200px;
+}
+.abtscttwo {
+    grid-column: 2/3;
+    background-color: rgba(255, 255, 255, 0.705);
+
+
+}
+
+#about-two {
     display: grid;
     margin: 0 auto;
-    grid-template-columns: repeat(1);
-    grid-template-rows: repeat(1) ;
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 700px;
+    height: 300px;
+    margin-bottom: 0px;
+    border-radius: 20px;
+    margin-top: 40px;
+    gap: 110px;
+}
+
+.about-two-one {
+    border-radius: 20px;
+    width: 300px;
+
+}
+
+.about-two-one img {
+
+    width: auto;
+    height: auto;
+    border-radius: 20px;
+
+}
+
+.about-two-two {
+    background-color: rgba(255, 255, 255, 0.705);
+    border-radius: 20px;
+    text-align: center;
+}
+
+.about-two-two img {
+
+    width: 160px;
+    height: 200px;
+    margin-left: 33px;
     align-content: center;
+}
+
+
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.interests {
+    text-align: left;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
 }

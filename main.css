@@ -569,3 +569,18 @@ p {
 h3 {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.videotxt {
+    color: white;
+    padding-top: 40px;
+}
+
+.videotxttwo {
+    color: white;
+    font-size: 20pt;
+}
+
+.videotxtthree {
+    color: white;
+    font-size: 15pt;
+}

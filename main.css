@@ -406,6 +406,35 @@ hr {
     align-content: center;
     border-radius: 20px;
 }
+
+
+.blogsprint3cultsect2 {
+
+    display: grid;
+    margin: 0 auto;
+    grid-template-columns: repeat(1 1fr);
+    grid-row: repeat(6);
+    height: 300px;
+    max-width: 700px;
+    background-color:rgba(32, 32, 32, 0.522);
+    align-content: center;
+    border-radius: 20px;
+    scroll-padding-left: 10px;
+}
+.eQsect2 {
+
+    display: grid;
+    margin: 0 auto;
+    grid-template-columns: repeat(1 1fr);
+    grid-row: repeat(6);
+    height: 200px;
+    max-width: 700px;
+    background-color:rgba(32, 32, 32, 0.522);
+    align-content: center;
+    border-radius: 20px;
+    scroll-padding-left: 10px;
+}
+
 .bloggridsect3 {
 
     display: grid;
@@ -462,6 +491,7 @@ hr {
 .blogh4 {
     color: white;
     text-align: left;
+    margin-top: auto;
     padding-left: 40px;
     padding-top: 10px;
     grid-row: 1;

@@ -481,6 +481,7 @@ hr {
 .blogh3 {
     color: white;
     margin: 0 auto;
+    text-align: left;
     grid-row: 4/5;
     padding-top: 10px;
     text-shadow: 4px 4px 4px rgb(32, 32, 32);
@@ -491,6 +492,7 @@ hr {
 .blogh4 {
     color: white;
     text-align: left;
+
     margin-top: auto;
     padding-left: 40px;
     padding-top: 10px;
@@ -613,4 +615,45 @@ h3 {
 .videotxtthree {
     color: white;
     font-size: 15pt;
+}
+
+.javablog3 {
+
+    margin: 0 auto;
+    height: 750px;
+    max-width: 700px;
+    background-color:rgba(32, 32, 32, 0.522);
+    align-content: center;
+    border-radius: 20px;
+}
+
+.javablog4 {
+
+    margin: 0 auto;
+    height: 600px;
+    max-width: 700px;
+    background-color:rgba(32, 32, 32, 0.522);
+    align-content: center;
+    border-radius: 20px;
+}
+
+.javablog5 {
+
+    margin: 0 auto;
+    height: 350px;
+    max-width: 700px;
+    background-color:rgba(32, 32, 32, 0.522);
+    align-content: center;
+    border-radius: 20px;
+}
+
+#backtotop {
+    margin: 0 auto;
+    text-align: center;
+    padding-left: 50px;
+    padding-top: 20px;
+    color: white;
+    text-shadow: 4px 4px 4px rgb(32, 32, 32);
+    font-family: Arial, Helvetica, sans-serif;
+
 }

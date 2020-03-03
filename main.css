@@ -735,3 +735,96 @@ h3 {
     align-content: center;
     border-radius: 20px;
 }
+
+
+
+.techblog4p1 {
+
+    display: grid;
+    margin: 0 auto;
+    grid-template-columns: repeat(1 1fr);
+    grid-row: repeat(6);
+    height: 340px;
+    max-width: 700px;
+    background-color:rgba(32, 32, 32, 0.522);
+    align-content: center;
+    border-radius: 20px;
+}
+
+.techblog4p2 {
+
+    display: grid;
+    margin: 0 auto;
+    grid-template-columns: repeat(1 1fr);
+    grid-row: repeat(6);
+    height: 550px;
+    max-width: 700px;
+    background-color:rgba(32, 32, 32, 0.522);
+    align-content: center;
+    border-radius: 20px;
+}
+
+.techblog4p3 {
+
+    display: grid;
+    margin: 0 auto;
+    grid-template-columns: repeat(1 1fr);
+    grid-row: repeat(6);
+    height: 250px;
+    max-width: 700px;
+    background-color:rgba(32, 32, 32, 0.522);
+    align-content: center;
+    border-radius: 20px;
+}
+
+.techblog4p4 {
+
+    display: grid;
+    margin: 0 auto;
+    grid-template-columns: repeat(1 1fr);
+    grid-row: repeat(6);
+    height: 180px;
+    max-width: 700px;
+    background-color:rgba(32, 32, 32, 0.522);
+    align-content: center;
+    border-radius: 20px;
+}
+
+.techblog4p5 {
+
+    display: grid;
+    margin: 0 auto;
+    grid-template-columns: repeat(1 1fr);
+    grid-row: repeat(6);
+    height: 200px;
+    max-width: 700px;
+    background-color:rgba(32, 32, 32, 0.522);
+    align-content: center;
+    border-radius: 20px;
+}
+
+.techblog4p6 {
+
+    display: grid;
+    margin: 0 auto;
+    grid-template-columns: repeat(1 1fr);
+    grid-row: repeat(6);
+    height: 180px;
+    max-width: 700px;
+    background-color:rgba(32, 32, 32, 0.522);
+    align-content: center;
+    border-radius: 20px;
+}
+
+.techblog4p7 {
+
+    display: grid;
+    margin: 0 auto;
+    grid-template-columns: repeat(1 1fr);
+    grid-row: repeat(6);
+    height: 180px;
+    max-width: 700px;
+    background-color:rgba(32, 32, 32, 0.522);
+    align-content: center;
+    border-radius: 20px;
+}

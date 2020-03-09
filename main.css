@@ -6,6 +6,29 @@ body {
     background-color: black;
 }
 
+table {
+    margin-right: center;
+    margin-left: center;
+    margin: 0 auto;
+  }
+
+.container{
+    text-align: center;
+}
+
+.inflate-an-image{
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    margin: 5px;
+}
+
+.unicorntext{
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
 
 
 a {

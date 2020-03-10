@@ -30,6 +30,21 @@ table {
     padding-bottom: 30px;
 }
 
+
+.gameDescriptiontext {
+    color: white;
+    text-align: center;
+}
+
+#partName {
+    color: black;
+    font-size: 30pt;
+    text-align: center;
+    margin: 0 auto;
+    background-color: white;
+    width: 200px;
+}
+
 .dress-a-parent {
     display: block;
     margin-left: auto;

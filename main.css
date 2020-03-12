@@ -969,12 +969,12 @@ html, body {
   
 
 .holeyMoley {
-    background: no-repeat center/100% url("mole.PNG");
+    background: no-repeat center/100% url("mole.png");
     background-color: brown;
   }
 
   td {
-    background: no-repeat center/100% url("grass.PNG");
+    background: no-repeat center/100% url("grass.png");
     background-color: BurlyWood;
     height: 75px;
     width: 75px;

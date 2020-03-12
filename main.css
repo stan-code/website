@@ -368,6 +368,15 @@ h2 {
 
 }
 
+.unicorntextdesc {
+    font-family: 'Bowlby One SC', Impact, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    size: 15pt;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+
 footer {
     background-color: rgba(143, 143, 143, 0.342);
     width: 100%;
@@ -958,3 +967,24 @@ html, body {
     background: no-repeat center/60% url("images/mark.svg") deepskyblue;
   }
   
+
+.holeyMoley {
+    background: no-repeat center/100% url("mole.PNG");
+    background-color: brown;
+  }
+
+  td {
+    background: no-repeat center/100% url("grass.PNG");
+    background-color: BurlyWood;
+    height: 75px;
+    width: 75px;
+    border-radius: 60pt;
+  }
+
+  .moletext { 
+      color: white;
+	margin-top: 100px;
+	margin-bottom: 50px;
+	font-size: 3em;
+	text-align: center;
+}
